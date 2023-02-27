@@ -1,0 +1,7 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+body{
+  background: url("../img/0365f4a9c983a11c377361be9190ed64.jpg")
+}
